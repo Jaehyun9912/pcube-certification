@@ -19,5 +19,4 @@
 
 <p align="center">
     <img src="./pcube-symbol.png" alt="판도라큐브 공식 로고" width="60" style="margin: 0 30px;">
-    <img src="./vent-symbol.png" alt="벤트 공식 로고" width="60" style="margin: 0 30px;">
 </p>
